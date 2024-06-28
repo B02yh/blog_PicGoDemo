@@ -1,0 +1,104 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4596234 */
+  /* Color fonts */
+  src: 
+       url('//at.alicdn.com/t/c/font_4596234_rhtvvn0xk6.woff2?t=1719579764394') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4596234_rhtvvn0xk6.ttf?t=1719579764394') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kaifa:before {
+  content: "\e6ae";
+}
+
+.icon-bijiben:before {
+  content: "\e632";
+}
+
+.icon-weixin:before {
+  content: "\e630";
+}
+
+.icon-food-strawberry:before {
+  content: "\e602";
+}
+
+.icon-food-popsicle:before {
+  content: "\e604";
+}
+
+.icon-QQ:before {
+  content: "\e667";
+}
+
+.icon-houduankaifa:before {
+  content: "\e64a";
+}
+
+.icon-GitHub:before {
+  content: "\e605";
+}
+
+.icon-youlian:before {
+  content: "\e600";
+}
+
+.icon-wenzhang:before {
+  content: "\ecb3";
+}
+
+.icon-liuyanban-05:before {
+  content: "\e601";
+}
+
+.icon-xuegao:before {
+  content: "\e65a";
+}
+
+.icon-bangbangtang:before {
+  content: "\e690";
+}
+
+.icon-pijiu:before {
+  content: "\e6bf";
+}
+
+.icon-wangyiyunyinle:before {
+  content: "\eb7d";
+}
+
+.icon-aixin:before {
+  content: "\e62f";
+}
+
+.icon-biaoqian:before {
+  content: "\e631";
+}
+
+.icon-sousuo:before {
+  content: "\e633";
+}
+
+.icon-shuben:before {
+  content: "\e634";
+}
+
+.icon-xiangji:before {
+  content: "\e635";
+}
+
+.icon-guidang:before {
+  content: "\e636";
+}
+
+.icon-home:before {
+  content: "\e647";
+}
+
